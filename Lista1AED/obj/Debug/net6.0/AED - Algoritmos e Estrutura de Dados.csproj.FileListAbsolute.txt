@@ -1,0 +1,15 @@
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\bin\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.exe
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\bin\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.deps.json
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\bin\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.runtimeconfig.json
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\bin\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.dll
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\bin\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.pdb
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.csproj.AssemblyReference.cache
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.AssemblyInfoInputs.cache
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.AssemblyInfo.cs
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.csproj.CoreCompileInputs.cache
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.dll
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\refint\AED - Algoritmos e Estrutura de Dados.dll
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.pdb
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\AED - Algoritmos e Estrutura de Dados.genruntimeconfig.cache
+D:\Atividades\AED - Algoritmos e Estrutura de Dados\obj\Debug\net6.0\ref\AED - Algoritmos e Estrutura de Dados.dll
