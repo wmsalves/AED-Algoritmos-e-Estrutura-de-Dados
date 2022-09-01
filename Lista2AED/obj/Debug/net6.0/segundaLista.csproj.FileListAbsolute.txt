@@ -1,0 +1,15 @@
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.csproj.AssemblyReference.cache
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.AssemblyInfoInputs.cache
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.AssemblyInfo.cs
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.csproj.CoreCompileInputs.cache
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\bin\Debug\net6.0\segundaLista.exe
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\bin\Debug\net6.0\segundaLista.deps.json
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\bin\Debug\net6.0\segundaLista.runtimeconfig.json
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\bin\Debug\net6.0\segundaLista.dll
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\bin\Debug\net6.0\segundaLista.pdb
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.dll
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\refint\segundaLista.dll
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.pdb
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\segundaLista.genruntimeconfig.cache
+C:\Users\Wemerson\Desktop\Faculdade\Algoritmos e Estrutura de Dados\segundaLista\obj\Debug\net6.0\ref\segundaLista.dll
