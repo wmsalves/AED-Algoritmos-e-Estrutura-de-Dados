@@ -1,0 +1,15 @@
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.csproj.AssemblyReference.cache
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.AssemblyInfoInputs.cache
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.AssemblyInfo.cs
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.csproj.CoreCompileInputs.cache
+C:\Users\Wemerson\Desktop\trab\bin\Debug\net6.0\trab.exe
+C:\Users\Wemerson\Desktop\trab\bin\Debug\net6.0\trab.deps.json
+C:\Users\Wemerson\Desktop\trab\bin\Debug\net6.0\trab.runtimeconfig.json
+C:\Users\Wemerson\Desktop\trab\bin\Debug\net6.0\trab.dll
+C:\Users\Wemerson\Desktop\trab\bin\Debug\net6.0\trab.pdb
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.dll
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\refint\trab.dll
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.pdb
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\trab.genruntimeconfig.cache
+C:\Users\Wemerson\Desktop\trab\obj\Debug\net6.0\ref\trab.dll
