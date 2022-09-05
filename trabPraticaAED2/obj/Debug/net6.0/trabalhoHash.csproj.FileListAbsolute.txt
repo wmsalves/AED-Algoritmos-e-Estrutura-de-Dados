@@ -1,0 +1,15 @@
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.csproj.AssemblyReference.cache
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.AssemblyInfoInputs.cache
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.AssemblyInfo.cs
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.csproj.CoreCompileInputs.cache
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\bin\Debug\net6.0\trabalhoHash.exe
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\bin\Debug\net6.0\trabalhoHash.deps.json
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\bin\Debug\net6.0\trabalhoHash.runtimeconfig.json
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\bin\Debug\net6.0\trabalhoHash.dll
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\bin\Debug\net6.0\trabalhoHash.pdb
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.dll
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\refint\trabalhoHash.dll
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.pdb
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\trabalhoHash.genruntimeconfig.cache
+C:\Users\Wemerson\Desktop\Faculdade\Arquitetura de Computadores\trabalhoHash\obj\Debug\net6.0\ref\trabalhoHash.dll
