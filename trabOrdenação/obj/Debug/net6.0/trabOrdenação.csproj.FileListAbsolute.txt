@@ -1,0 +1,5 @@
+C:\Users\Wemerson\Desktop\Faculdade\trabOrdenação\obj\Debug\net6.0\trabOrdenação.csproj.AssemblyReference.cache
+C:\Users\Wemerson\Desktop\Faculdade\trabOrdenação\obj\Debug\net6.0\trabOrdenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wemerson\Desktop\Faculdade\trabOrdenação\obj\Debug\net6.0\trabOrdenação.AssemblyInfoInputs.cache
+C:\Users\Wemerson\Desktop\Faculdade\trabOrdenação\obj\Debug\net6.0\trabOrdenação.AssemblyInfo.cs
+C:\Users\Wemerson\Desktop\Faculdade\trabOrdenação\obj\Debug\net6.0\trabOrdenação.csproj.CoreCompileInputs.cache
